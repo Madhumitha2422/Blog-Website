@@ -7,7 +7,7 @@
 
 2. **Project Structure:**
    - Create a project directory.
-   - Organize it with an 'app' directory, 'static' for CSS/JS, 'templates' for HTML, and a 'run.py' main script.
+   - Organize it with an 'app' directory, 'static' for CSS/JS, 'templates' for HTML, and a 'app.py' main script.
 
 3. **Virtual Environment:**
    - Create a virtual environment to isolate dependencies.
@@ -42,16 +42,9 @@
 12. **Styling with CSS:**
     - Create or integrate CSS stylesheets to improve the visual design of your blog.
 
-13. **Deployment (Optional):**
-    - Deploy your blog to a hosting service like Heroku or AWS.
-    - Configure a production environment and ensure security.
-
 14. **Testing and Debugging:**
     - Continuously test and debug your application as you build and add features.
 
-15. **Documentation:**
-    - Document your code and project for future reference.
-
-16. **Launch and Maintain:**
-    - Launch your blog website and maintain it, keeping it updated and secure.
+.
+   
 
